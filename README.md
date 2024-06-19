@@ -1,5 +1,5 @@
 # Workshop_01 - ETL
-Autor: [@Miniicow]([https://github.com/ManuelaMayorga](https://github.com/Miniicow))
+Autor: [@Miniicow](https://github.com/Miniicow)
 
 ## Welcome
 
